@@ -1,3 +1,52 @@
+function add(number1, number2) {
+  return number1 + number2;
+}
+
+alert(add(10,5));
+
+
+
+function add(number1, number2) {
+  return number1 + number2;
+}
+
+alert(add(10,5));
+
+
+
+/*function add(number1, number2) {
+  return number1 + number2;
+}
+const number1 = prompt("Enter a number:");
+
+alert(number1);
+
+
+
+function add(number1, number2) {
+  return number1 + number2;
+}
+
+const number1 = prompt("Enter a number:");
+const number2 = promp("Enter another number:");
+
+alert (add(number1, number2));
+
+
+
+function add(number1, number2) {
+  return number1 + number2;
+}
+
+const number1 = parseInt(promt("Enter a number:"));
+const number2 = parseInt(promp("Enter another number:"));
+
+alert (add(number1, number2));
+*/////////////////////////////////////////////////////////
+
+
+
+
 /*const age = prompt("How old are you?");
 const name = prompt("What is your name?");
 const food = prompt("What is your favorite food?");
@@ -22,7 +71,8 @@ undefined
 alert (sentence ());
 undefined
 alert (sentence (age, name, food));
-undefined*/
+undefined
+*///////////////////////////////////////////////////
 
 
 const age = prompt("How old are you?");
